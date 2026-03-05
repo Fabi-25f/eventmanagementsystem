@@ -149,15 +149,18 @@ Event-Management-System
 
 ## Events Management
 (Add / Update / Delete Events)
+![Screenshot](ss/1.png)
 
 ## Attendees Management
 (Manage registered attendees)
+![Screenshot](ss/2.png)
 
 ## Bookings Dashboard
 (Manage event bookings)
-
+![Screenshot](ss/4.png)
 ## Admin Panel
 (Change password / Logout)
+![Screenshot](ss/7.png)
 
 ---
 
@@ -178,11 +181,6 @@ It also improved understanding of **GUI event handling, database design, and Jav
 # 👨‍💻 Authors
 
 **Fardeen Ali**  
-**Adamya Vikram Singh**  
-**Kshitij Mishra**  
-**Vaibhav Solanki**  
-**Divyanshu Singh**
-
 B.Tech CSE  
 UPES Dehradun
 
