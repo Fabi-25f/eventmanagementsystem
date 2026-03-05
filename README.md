@@ -149,18 +149,18 @@ Event-Management-System
 
 ## Events Management
 (Add / Update / Delete Events)
-![Screenshot](ss/1.png)
+![Screenshot](ss/1.jpeg)
 
 ## Attendees Management
 (Manage registered attendees)
-![Screenshot](ss/2.png)
+![Screenshot](ss/2.jpeg)
 
 ## Bookings Dashboard
 (Manage event bookings)
-![Screenshot](ss/4.png)
+![Screenshot](ss/4.jpeg)
 ## Admin Panel
 (Change password / Logout)
-![Screenshot](ss/7.png)
+![Screenshot](ss/7.jpeg)
 
 ---
 
