@@ -1,6 +1,6 @@
 # 🎉 Event Management System
 
-![Banner](assets/event_Banner.png)
+![Banner](assets/Event_Banner.png)
 
 A Java-based desktop application built using **Java Swing and MySQL** that allows administrators to efficiently manage events, attendees, venues, and bookings through an interactive graphical user interface.
 
